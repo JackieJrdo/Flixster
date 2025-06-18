@@ -1,0 +1,38 @@
+.movieList {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.movie-list-container {
+    padding: 0;
+}
+
+canvas.confetti-canvas {
+    z-index: 2147483647 !important;
+    pointer-events: none; 
+}
+
+.moreCard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: white 1px solid;
+    background-color: #3b3b3b;
+    border-radius: 16px;
+    width: 240px;
+    height: 380px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.moreCard:hover {
+    box-shadow: 0px 0px 20px 1px red;
+    transform: scale(1.05);
+    cursor: grab;
+}
