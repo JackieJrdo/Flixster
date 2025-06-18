@@ -60,8 +60,6 @@ function MovieList({movies, page, setPage}) {
             return;
         }
 
-        // fetch data will run everytime that the page number updates
-
 const fetchData = async () => {
     setLoading(true);
     try {
@@ -85,13 +83,6 @@ const fetchData = async () => {
         
         fetchData(); 
     }, [page, movies && movies.length === 0]);
-
-    // useEffect(() => {
-    //     if (movies && movies.length > 0) {
-    //         setData(movies);
-    //         setLoading(false);
-    //     }
-    // }, [movies]);
 
     useEffect(() => {
         if (movies && movies.length > 0) {

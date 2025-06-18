@@ -21,7 +21,7 @@ function MovieCard({ title, rating, posterPath, onCardClick }) {
             </span>
 
             <div className = "movie-img">
-                <img src = {`https://image.tmdb.org/t/p/w500${posterPath}`} />
+                <img src = {`https://image.tmdb.org/t/p/w500${posterPath}`} alt = "Movie poster image"/>
             </div>
             <div className='movie-title'>
                 <h1>{title}</h1>

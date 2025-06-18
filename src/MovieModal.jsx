@@ -10,7 +10,7 @@ function MovieModal ({ showModal, selectedCard, onClose }) {
     return (
     <div className="modal">
         <div className="modal-content">
-            <img src = {`https://image.tmdb.org/t/p/w500${selectedCard.backdrop_path}`} />
+            <img src = {`https://image.tmdb.org/t/p/w500${selectedCard.backdrop_path}`} alt = "Movie backdrop poster"/>
             <p> ----------------------------- </p>
             <h2>{selectedCard.title}</h2>
             <h3>Release Date: {selectedCard.release_date}</h3>
