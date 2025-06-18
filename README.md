@@ -100,8 +100,15 @@ Estimated time spent: **28** hours spent in total
 
 ### Walkthrough Video
 
-<div style="position: relative; padding-bottom: 64.55089820359281%; height: 0;"><iframe src="https://www.loom.com/embed/70452202cf9e42009c7e2435a3f612d0?sid=8fafcfb1-77a6-486a-bfc9-6f788be100a0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/70452202cf9e42009c7e2435a3f612d0">
+      <p>Flixster - 17 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/70452202cf9e42009c7e2435a3f612d0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/70452202cf9e42009c7e2435a3f612d0-a8633511ea591229-full-play.gif">
+    </a>
+  </div>
+  
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
