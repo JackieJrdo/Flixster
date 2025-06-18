@@ -100,28 +100,26 @@ Estimated time spent: **28** hours spent in total
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. Ensure your walkthrough showcases the presence and/or functionality of all features you implemented above (check them off as you film!). Pay attention to any **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS** checkboxes listed above to ensure graders see the full functionality of your website! (🚫 Remove this paragraph after adding walkthrough video)
-
-`<div style="position: relative; padding-bottom: 64.55089820359281%; height: 0;"><iframe src="https://www.loom.com/embed/70452202cf9e42009c7e2435a3f612d0?sid=fc57c810-ac07-405e-8db8-6372363c3f2b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
+<div style="position: relative; padding-bottom: 64.55089820359281%; height: 0;"><iframe src="https://www.loom.com/embed/70452202cf9e42009c7e2435a3f612d0?sid=8fafcfb1-77a6-486a-bfc9-6f788be100a0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I felt like the topics discussed in the labs did prepare me but the extent of this lab required more understanding from outside materials. I think passing props and connecting things on different files was difficult, as well as learning about the TMDb API itself.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+With more time, I would have implemented the watched icon/button stretch feature and the side panel feature. I would have also spent more time on styling after reaching those stretch features. For a more fun idea, incorporating reviews on each movies modal, along with its trailer, would have been awesome.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I think my project demo went well, I think everyone was able to give good/bad constructive feedback. I definitely felt pushed to keep improving on this and even incorporating the same ideas using a different API. A peer of mine had an image carousel that I feel tied in the project and his theme, so I would like to try that next time!
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- Canvas Confetti: https://github.com/catdad/canvas-confetti
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shout out to Lucia and Keith for constant support and weird debugging, and Oliver, Heiryn, and Joanna as well!
